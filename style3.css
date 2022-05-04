@@ -1,0 +1,20 @@
+.nav h1{
+    padding-right: 10px;
+}
+
+.card-1{
+    width: 140px;
+}
+.card-2{
+    width: 140px;
+}
+.card-3{
+    width: 140px;
+}
+
+.card{
+    margin-left: 100px;
+}
+.container{
+    padding: 50px;
+}
